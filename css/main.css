@@ -9,7 +9,7 @@
 /* estilos generales */
 
 body{
-    background-color: #ECEEF3;
+    background-color: #171b25;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -17,6 +17,14 @@ body{
 
 header{
     display: none;
+}
+
+header h1{
+    color: beige;
+}
+
+header nav ul{
+    color: beige;
 }
 
 /* estilos de main*/
@@ -29,7 +37,7 @@ main{
 
 main h2{
     text-align: center;
-    color: #182941;
+    color: #839aba;
     margin: 1rem;
 }
 
@@ -39,6 +47,7 @@ main h2 span{
 
 main p{
     text-align: center;
+    color: white;
 }
 
 main .boton{
@@ -61,6 +70,8 @@ section{
 
 footer h4{
     text-align: center;
+    color: beige;
+    align-items: center;
 }
 
 
